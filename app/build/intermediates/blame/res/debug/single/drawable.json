@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\Snake1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellowstar.png",
+        "source": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\drawable\\yellowstar.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\Snake1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redstar.png",
+        "source": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\drawable\\redstar.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\Snake1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greenstar.png",
+        "source": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\drawable\\greenstar.png"
+    }
+]

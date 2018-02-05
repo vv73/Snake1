@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\vv\\Desktop\\Snake1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 63,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 63,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 73,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 73,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 69,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 69,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 43,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\vv\\Desktop\\Snake1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 51,
+                        "endOffset": 952
+                    }
+                }
+            }
+        ]
+    }
+]
